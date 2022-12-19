@@ -1,0 +1,2 @@
+html = hypertextmarkerlangauge
+html is used to create content page which is used to display on webpage
